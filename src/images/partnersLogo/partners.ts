@@ -1,8 +1,8 @@
-import PartnersGreenHouse  from "../partnersLogo/partners_greenFullLogoHouse.png";
-import PartnersGreenTree from '../partnersLogo/Partners_GreenTree.png';
-import PartnersIndustrialPark from "../partnersLogo/Partners_IndustrialPark.png"
-import PartnersPrestigeExpress from "../partnersLogo/partners_prestigeExpress.png"
-import PartnersZahidResurs from "../partnersLogo/Partners_ZahidResurs.jpg"
+import PartnersGreenHouse  from "./partners_greenFullLogoHouse.png";
+import PartnersGreenTree from './Partners_GreenTree.png';
+import PartnersIndustrialPark from "./partners_IndustrialPark.png"
+import PartnersPrestigeExpress from "./partners_prestigeExpress.png"
+import PartnersZahidResurs from "./Partners_ZahidResurs.jpg"
 
 
 export const Partnerslogos = [
